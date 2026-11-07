@@ -1,7 +1,7 @@
 [
   {
     "file": "index.html",
-    "nav": "The invitation",
+    "nav": "The exploration",
     "hero": "generated-civic-hub-concept"
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "file": "access.html",
-    "nav": "KYC and access",
+    "nav": "KYC questions",
     "hero": "start-here-hero"
   },
   {
@@ -56,7 +56,7 @@
   },
   {
     "file": "network.html",
-    "nav": "Connected projects",
+    "nav": "Developing connections",
     "hero": "island-twin"
   },
   {
@@ -82,6 +82,6 @@
   {
     "file": "site-map.html",
     "nav": "Site map",
-    "hero": "state-library"
+    "hero": "brisbane-slq-edge"
   }
 ]

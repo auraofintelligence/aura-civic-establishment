@@ -8,7 +8,7 @@
 
 *AI-generated concept, 7 November 2026. An imagined civic interior, not a photograph or design of the existing candidate premises. [Prompts and provenance](data/generated-image-provenance.json).*
 
-This public planning site explores a proposed **24/7 shared civic establishment**, with **433 Logan Road, Stones Corner, Brisbane** as one candidate location. It connects selected overlaps within the much wider Aura of Intelligence body of work. Different organisations, programmes and personal journeys can share facilities through agreed responsibilities and schedules.
+This public site explores a possible **24/7 shared civic establishment with KYC**, with **433 Logan Road, Stones Corner, Brisbane** as a candidate location. **Everything is still a system in development.** The activity mix, use of space, participating people and ways of working remain open. Dunwich is also a developing concept, with no confirmed programme. Linked websites and repositories document ideas, rather than confirmed operations or partnerships.
 
 Author: **Luke Nathan Hayes / Strange But True / Aura of Intelligence**.
 
@@ -18,10 +18,10 @@ Author: **Luke Nathan Hayes / Strange But True / Aura of Intelligence**.
 
 - **The place:** dated indoor-area evidence, plan references and the questions a current room inventory can answer.
 - **Useful overlaps:** select programmes and discover the rooms, equipment and support they could share.
-- **Shared use:** explore a full week, identity verification, permissions, bookings and handovers.
+- **Shared use:** explore questions about people, hours and possible use of space, without prescribing a timetable or operating system.
 - **Calculators:** space, desk-hours, room-hours, visits, operating costs, the existing lease reference and an optional compute module.
 - **Workforce and community:** teaching, women’s enterprise, practical work, resilience and voluntary contribution.
-- **A reviewable brief:** an interactive checklist, printable guide and downloadable template.
+- **A working discussion:** optional prompts, a printable guide and a downloadable template.
 - **The wider network:** project websites, repositories, government responsibilities and a searchable source catalogue.
 
 The public website is a planning tool. It does not collect identity documents or issue building credentials. Editable scenarios keep historical evidence, proposed services and assumptions in their own terms. C-Hour records voluntary human time with no monetary equivalent; money and outcomes have separate records.

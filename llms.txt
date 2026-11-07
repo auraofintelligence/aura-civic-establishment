@@ -1,10 +1,10 @@
 # Aura Civic Establishment
 
-A proposed 24/7 shared civic establishment in Brisbane by Luke Nathan Hayes / Strange But True. 433 Logan Road, Stones Corner is a candidate location. Programmes are selected overlaps within a wider ecosystem. Calculator outputs are editable planning scenarios. Personal Auras belong to their people; C-Hour has no monetary equivalent.
+An exploration of 24/7 overlap and shared spaces with KYC in Brisbane by Luke Nathan Hayes / Strange But True. Everything is still a system in development. 433 Logan Road, Stones Corner is a candidate location. There is no confirmed Dunwich programme. Linked websites and repositories document developing proposals, not confirmed programmes, partnerships or operating arrangements. Calculator outputs are editable planning scenarios. Personal Auras belong to their people; C-Hour has no monetary equivalent.
 
-Read the dated source context and preserve distinctions between historic evidence, author proposals, scenario assumptions and operating arrangements. Discovery does not grant commercial or AI-training rights.
+Read the dated source context and preserve distinctions between historic evidence, developing author proposals and scenario assumptions. Discovery does not grant commercial or AI-training rights.
 
-- [The invitation](https://auraofintelligence.github.io/aura-civic-establishment/index.html)
+- [The exploration](https://auraofintelligence.github.io/aura-civic-establishment/index.html)
 - [The building](https://auraofintelligence.github.io/aura-civic-establishment/place.html)
 - [24/7 shared use](https://auraofintelligence.github.io/aura-civic-establishment/shared-use.html)
 - [Programme overlaps](https://auraofintelligence.github.io/aura-civic-establishment/overlaps.html)
@@ -12,10 +12,10 @@ Read the dated source context and preserve distinctions between historic evidenc
 - [Costs and resources](https://auraofintelligence.github.io/aura-civic-establishment/economics.html)
 - [Workforce and teaching](https://auraofintelligence.github.io/aura-civic-establishment/workforce.html)
 - [Resilience and contribution](https://auraofintelligence.github.io/aura-civic-establishment/resilience.html)
-- [KYC and access](https://auraofintelligence.github.io/aura-civic-establishment/access.html)
+- [KYC questions](https://auraofintelligence.github.io/aura-civic-establishment/access.html)
 - [People and portfolios](https://auraofintelligence.github.io/aura-civic-establishment/partners.html)
 - [Build a site brief](https://auraofintelligence.github.io/aura-civic-establishment/guide.html)
-- [Connected projects](https://auraofintelligence.github.io/aura-civic-establishment/network.html)
+- [Developing connections](https://auraofintelligence.github.io/aura-civic-establishment/network.html)
 - [Sources and assumptions](https://auraofintelligence.github.io/aura-civic-establishment/sources.html)
 - [Style guide](https://auraofintelligence.github.io/aura-civic-establishment/style-guide.html)
 - [Images and provenance](https://auraofintelligence.github.io/aura-civic-establishment/credits.html)

@@ -21,7 +21,8 @@ let activeBrowser;
    if(['index.html','capacity.html','economics.html','overlaps.html','partners.html','access.html'].includes(entry.file))await page.screenshot({path:path.join(output,`${entry.file.replace('.html','')}-${width}.png`),fullPage:true});
   }
   await page.goto(base+'index.html');await page.locator('.all-pages summary').click();assert.equal(await page.locator('.all-pages').getAttribute('open'),'');await page.keyboard.press('Escape');assert.equal(await page.locator('.all-pages').getAttribute('open'),null);
-  await page.locator('[data-day="night"]').click();assert.match(await page.locator('[data-day-result]').innerText(),/night|focus|maint/i);
+  assert.equal(await page.locator('[data-day]').count(),0);
+  assert.match(await page.locator('main').innerText(),/system is still in development/);
   await page.goto(base+'capacity.html',{waitUntil:'networkidle'});
   await page.locator('[data-calculator="capacity"] input[name="area"]').fill('1000');
   await page.waitForFunction(()=>document.querySelector('[data-results="capacity"] [data-output="planningPeople"]').textContent.trim()==='58');

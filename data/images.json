@@ -242,41 +242,6 @@
     "licence": "Strange But True Public Source Licence",
     "licence_url": "LICENCE.md"
   },
-  "state-library": {
-    "file": "state-library",
-    "title": "State Library of Victoria, Melbourne",
-    "creator": "Crisco 1492",
-    "licence": "CC BY-SA 4.0",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:State_Library_of_Victoria,_Melbourne,_2017-10-29_03.jpg",
-    "source_credit": "Crisco 1492 / Wikimedia Commons / CC BY-SA 4.0",
-    "alt": "Readers sit at desks beneath galleries in the State Library of Victoria.",
-    "caption": "State Library of Victoria, Melbourne, on 29 October 2017.",
-    "width": 1536,
-    "height": 742,
-    "modifications": "Resized and converted from JPEG to WebP; native proportions retained. No cropping or generative alterations.",
-    "kind": "photograph",
-    "year": "2017",
-    "id": "state-library",
-    "source_project": "https://auraofintelligence.github.io/joyful-responsible-abundance/",
-    "source_credit_register": "https://auraofintelligence.github.io/joyful-responsible-abundance/assets/images/image-credits.json",
-    "source_record": {
-      "file": "state-library",
-      "title": "State Library of Victoria, Melbourne",
-      "creator": "Crisco 1492",
-      "licence": "CC BY-SA 4.0",
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "source": "https://commons.wikimedia.org/wiki/File:State_Library_of_Victoria,_Melbourne,_2017-10-29_03.jpg",
-      "source_credit": "Crisco 1492 / Wikimedia Commons / CC BY-SA 4.0",
-      "alt": "Readers sit at desks beneath galleries in the State Library of Victoria.",
-      "caption": "State Library of Victoria, Melbourne, on 29 October 2017.",
-      "width": 1536,
-      "height": 742,
-      "modifications": "Resized and converted from JPEG to WebP; native proportions retained. No cropping or generative alterations.",
-      "kind": "photograph",
-      "year": "2017"
-    }
-  },
   "rooftop-solar": {
     "file": "rooftop-solar",
     "title": "Suburban rooftop solar, Canberra",
@@ -532,6 +497,22 @@
       "width": 960,
       "height": 720
     }
+  },
+  "brisbane-slq-edge": {
+    "id": "brisbane-slq-edge",
+    "kind": "photograph",
+    "title": "The Edge, State Library of Queensland, Brisbane",
+    "alt": "A café counter and shared working tables inside The Edge at the State Library of Queensland, Brisbane.",
+    "caption": "The Edge, State Library of Queensland, Brisbane, 13 January 2018. Photograph by Kgbo, CC BY-SA 4.0. A local shared-space reference, separate from the candidate building.",
+    "creator": "Kgbo",
+    "licence": "Creative Commons Attribution-ShareAlike 4.0 International",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:The_Edge_interior,_State_Library_of_Queensland,_Brisbane_pano.jpg",
+    "source_credit_register": "https://commons.wikimedia.org/wiki/File:The_Edge_interior,_State_Library_of_Queensland,_Brisbane_pano.jpg",
+    "source_file": "assets/images/source/brisbane-slq-edge.jpg",
+    "modifications": "Resized and converted to responsive WebP. The original photograph retains its full frame; hero display may crop it. Photograph and derivatives retain CC BY-SA 4.0.",
+    "width": 5948,
+    "height": 3235
   },
   "island-twin": {
     "id": "island-twin",

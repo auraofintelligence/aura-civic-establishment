@@ -6,7 +6,7 @@ import {
 const SCENARIO_KEY = 'aura-civic-scenario-v1';
 const GUIDE_KEY = 'aura-civic-guide-v1';
 const MAX_JSON_BYTES = 100 * 1024;
-const DEFAULT_PROGRAMMES = ['resilience', 'women', 'teaching'];
+const DEFAULT_PROGRAMMES = [];
 const FALLBACK_INPUTS = {
   capacity: { area: 5000, supportPercent: 30, areaPerPerson: 12, desks: 50, openHours: 24, openDays: 7, availabilityPercent: 80, bookingPercent: 60, hoursPerMember: 10 },
   rooms: { rooms: 4, openHours: 24, openDays: 7, availabilityPercent: 80, bookingPercent: 60, sessionHours: 2, turnoverMinutes: 15, peoplePerSession: 12 },
@@ -370,7 +370,7 @@ function renderOverlaps() {
     for (const [space, users] of individual) list.append(element('li', `${space} · ${users[0]}`));
     output.append(list);
   }
-  output.append(element('p', 'A shared resource is counted once. Suitable rooms, activity hosts and a workable timetable still shape the combination.', 'small'));
+  output.append(element('p', 'This illustrative mapping suggests possible resources to discuss. It is not a confirmed programme mix, room plan or operating arrangement.', 'small'));
 }
 
 function wireProgrammes() {
@@ -379,22 +379,6 @@ function wireProgrammes() {
     renderOverlaps();
     clearScenarioQuery();
     persistScenario();
-  });
-}
-
-function wireDaySwitch() {
-  const rhythms = {
-    morning: ['A morning for learning and introductions', 'Bookable teaching rooms, mentor conversations, personal-Aura introductions and shared desks. Each activity brings an identified host and a workable handover.'],
-    afternoon: ['An afternoon for building and connecting', 'Project teams, practical learning and enterprise conversations can share rooms and equipment. Bookings include preparation, pack-down and time to hand the space to the next activity.'],
-    evening: ['An evening for making and gathering', 'Adult learning, creative work and hosted gatherings can fit around daytime commitments. Active and quiet uses need suitable rooms, clear access arrangements and an identified host.'],
-    night: ['A night for focus and upkeep', 'Booked focused work, technical operations and maintenance can use quieter hours. Programme services keep their own staffed hours, with access and support matched to each activity.'],
-  };
-  for (const button of document.querySelectorAll('[data-day]')) button.addEventListener('click', () => {
-    const value = rhythms[button.dataset.day];
-    const output = document.querySelector('[data-day-result]');
-    if (!value || !output) return;
-    for (const other of document.querySelectorAll('[data-day]')) other.setAttribute('aria-pressed', String(other === button));
-    output.replaceChildren(element('h3', value[0]), element('p', value[1]));
   });
 }
 
@@ -430,19 +414,28 @@ function wireAccess() {
     let title;
     let explanation;
     if (space.value === 'compute') {
-      title = 'Technical operator access';
-      explanation = 'An engineered equipment area would need operator authorisation, equipment competence and a recorded technical role. A membership or hosted visit alone would not establish permission to operate the equipment.';
+      title = 'Questions about technical space';
+      explanation = 'What equipment is being considered? Who might use or maintain it, what knowledge could be needed, and how might a technical area relate to shared learning space?';
     } else if (space.value === 'workshop') {
-      title = 'Activity-host permission';
-      explanation = 'An identified activity host would agree the equipment, induction, supervision and room booking. Visitors could participate through that hosted activity, with permissions matched to the work.';
+      title = 'Questions about making and shared equipment';
+      explanation = 'What would people want to make or learn? Which tools and kinds of assistance might be useful, and how could the space work for different experience levels?';
+    } else if (space.value === 'quiet') {
+      title = 'Questions about a quiet room';
+      explanation = 'What might the room be used for? How much privacy or acoustic separation would help, and how could people find a suitable space when they need one?';
     } else if (person.value === 'guest' || space.value === 'public') {
-      title = 'Hosted visit';
-      explanation = 'A welcome or activity host would arrange the visit, confirm who is expected and explain the spaces included. A public introduction would not automatically include every room or service.';
+      title = 'Questions about a first visit';
+      explanation = 'What would help someone understand the place? What, if any, identity information would be relevant to that visit, and why?';
+    } else if (person.value === 'host') {
+      title = 'Questions about organising an activity';
+      explanation = 'What would the organiser and participants want from the space? How could availability, equipment and any assistance be explored with them?';
+    } else if (person.value === 'technical') {
+      title = 'Questions about technical work';
+      explanation = 'What work is being considered, what space would suit it, and how might it connect with other people or activities in the building?';
     } else {
-      title = 'Booking plus member access';
-      explanation = 'The proposed model combines an agreed member identity with a suitable room or desk booking. Quiet spaces may need additional privacy arrangements, and each provider would set its own service hours.';
+      title = 'Questions about regular use';
+      explanation = 'When might people want to return? What would make the space useful, and what could KYC mean for that relationship without assuming a particular membership or booking system?';
     }
-    output.replaceChildren(element('h3', title), element('p', explanation), element('p', 'Illustrative access policy for discussion. This page does not verify identity, collect identity documents or operate building access.', 'small'));
+    output.replaceChildren(element('h3', title), element('p', explanation), element('p', 'Questions within a system in development. No access decision or operating policy is being issued.', 'small'));
   };
   person.addEventListener('change', update);
   space.addEventListener('change', update);
@@ -529,7 +522,6 @@ async function fetchData(path) {
 async function initialise() {
   defineBounds();
   wireNavigation();
-  wireDaySwitch();
   wireSourceFilters();
   wireAccess();
   wireGuide();

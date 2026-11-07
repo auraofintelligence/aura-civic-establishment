@@ -9,7 +9,7 @@ JRA = BASE / 'joyful-responsible-abundance'
 ASSETS = ROOT / 'assets/images'
 ASSETS.mkdir(parents=True, exist_ok=True)
 
-hero_slugs = ['explore-hero','projects-hero','public-decisions-hero','library-hero','five-horizons-hero','tools-hero','start-here-hero','global-festival','people-practice-hero','state-library','rooftop-solar','parliament-dusk','earth-at-night','csiro-compute','parliament-chamber','point-lookout']
+hero_slugs = ['explore-hero','projects-hero','public-decisions-hero','library-hero','five-horizons-hero','tools-hero','start-here-hero','global-festival','people-practice-hero','rooftop-solar','parliament-dusk','earth-at-night','csiro-compute','parliament-chamber','point-lookout']
 visuals = json.loads((JRA / 'data/visuals.json').read_text(encoding='utf-8'))['images']
 credits_path = JRA / 'assets/images/image-credits.json'
 credits = json.loads(credits_path.read_text(encoding='utf-8'))
@@ -29,6 +29,12 @@ for slug in hero_slugs:
         entry['licence'] = 'Strange But True Public Source Licence'
         entry['licence_url'] = 'LICENCE.md'
     registry[slug] = entry
+
+slq_source=ASSETS/'source/brisbane-slq-edge.jpg'
+slq=Image.open(slq_source).convert('RGB')
+for size in [768,1536]:
+    variant=slq.copy();variant.thumbnail((size,10000));variant.save(ASSETS/f'brisbane-slq-edge-{size}.webp','WEBP',quality=88)
+registry['brisbane-slq-edge']={'id':'brisbane-slq-edge','kind':'photograph','title':'The Edge, State Library of Queensland, Brisbane','alt':'A café counter and shared working tables inside The Edge at the State Library of Queensland, Brisbane.','caption':'The Edge, State Library of Queensland, Brisbane, 13 January 2018. Photograph by Kgbo, CC BY-SA 4.0. A local shared-space reference, separate from the candidate building.','creator':'Kgbo','licence':'Creative Commons Attribution-ShareAlike 4.0 International','licence_url':'https://creativecommons.org/licenses/by-sa/4.0/','source_url':'https://commons.wikimedia.org/wiki/File:The_Edge_interior,_State_Library_of_Queensland,_Brisbane_pano.jpg','source_credit_register':'https://commons.wikimedia.org/wiki/File:The_Edge_interior,_State_Library_of_Queensland,_Brisbane_pano.jpg','source_file':'assets/images/source/brisbane-slq-edge.jpg','modifications':'Resized and converted to responsive WebP. The original photograph retains its full frame; hero display may crop it. Photograph and derivatives retain CC BY-SA 4.0.','width':slq.width,'height':slq.height}
 
 extra = BASE / 'ready-set-co-op-cultural-intelligence-node/assets/heroes/digital-twin.webp'
 image = Image.open(extra).convert('RGB')

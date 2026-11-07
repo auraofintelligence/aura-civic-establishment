@@ -1,7 +1,7 @@
 {
   "name": "Aura Civic Establishment",
   "short_name": "Aura Civic",
-  "description": "A 24/7 shared civic place and planning laboratory.",
+  "description": "An exploration of a possible 24/7 shared civic place within a system in development.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",

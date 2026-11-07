@@ -2,13 +2,15 @@
 
 Published 7 November 2026.
 
-The site presents one potential civic establishment within a much wider Aura of Intelligence ecosystem. The current direction is 24/7 shared space with identity-aware access, selected programme overlaps and clear operating responsibilities. It does not commit the building to the whole archive or require every participant to join one organisation.
+The site explores one potential civic establishment within a much wider Aura of Intelligence ecosystem. Everything is still a system in development. The starting idea is 24/7 overlap and shared spaces with KYC; the activity mix, people, places and implementation remain open. There is no confirmed Dunwich programme. Published project material is not evidence of operating programmes or agreed partnerships.
+
+Correction, 8 November 2026: removed the invented daily timetable, room-week calendar and access-policy outcomes. Replaced them with open design questions. Removed preselected programme combinations and labelled the resource mapping as illustrative. Replaced the Melbourne library photograph with a credited photograph of The Edge at the State Library of Queensland, Brisbane.
 
 ## Available now
 
 - Seventeen public pages covering the place, shared use, overlaps, capacity, costs, workforce, resilience, access, representatives, the site brief, connected projects, sources, design and rights.
 - Five editable calculator models, scenario import/export and shareable links.
-- A programme resource comparison, access-policy examples and a locally saved guide checklist.
+- An illustrative resource comparison, KYC discussion prompts and optional locally saved guide selections.
 - Twenty documented images, including two new generated concepts, photographs, responsive heroes and inline figures.
 - Twenty-five public source references, local contacts and seven government portfolio themes.
 - Full navigation, previous/next routes, human and XML sitemaps, a web manifest, favicon sizes, robots.txt, llms.txt and the complete Strange But True Public Source Licence.
