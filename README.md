@@ -12,6 +12,8 @@ This public planning site explores a proposed **24/7 shared civic establishment*
 
 Author: **Luke Nathan Hayes / Strange But True / Aura of Intelligence**.
 
+[First-edition status and continuation notes](PROJECT_STATUS.md) record what is available and which local inputs will strengthen the next edition.
+
 ## Explore
 
 - **The place:** dated indoor-area evidence, plan references and the questions a current room inventory can answer.

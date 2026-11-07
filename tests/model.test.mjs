@@ -100,7 +100,6 @@ test('economics annualises monthly amounts and separates operating, renewal and 
   assert.equal(result.totalAnnual, 1340000);
   assert.equal(result.memberAnnual, 216000);
   assert.equal(result.incomeAnnual, 816000);
-  assert.equal(result.securedIncomeAnnual, result.incomeAnnual);
   assert.equal(result.fundingGapAnnual, 524000);
   assert.equal(result.surplusAnnual, 0);
   close(result.monthlyGap, 524000 / 12);

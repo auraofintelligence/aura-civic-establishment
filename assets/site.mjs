@@ -23,7 +23,7 @@ const decimal = new Intl.NumberFormat('en-AU', { minimumFractionDigits: 1, maxim
 const money = new Intl.NumberFormat('en-AU', { style: 'currency', currency: 'AUD', maximumFractionDigits: 0 });
 const dollars = new Set([
   'premisesAnnual', 'staffAnnual', 'renewalAnnual', 'operatingAnnual', 'totalAnnual',
-  'memberAnnual', 'incomeAnnual', 'securedIncomeAnnual', 'fundingGapAnnual', 'surplusAnnual',
+  'memberAnnual', 'incomeAnnual', 'fundingGapAnnual', 'surplusAnnual',
   'monthlyGap', 'annual', 'monthly', 'cumulativeTerm', 'capital', 'annualElectricity',
 ]);
 const forms = [...document.querySelectorAll('form[data-calculator]')]

@@ -99,8 +99,6 @@ export function calculateEconomics(input = {}) {
   return {
     premisesAnnual, staffAnnual, renewalAnnual, operatingAnnual, totalAnnual,
     memberAnnual, incomeAnnual,
-    // Compatibility alias only. Use incomeAnnual in public-facing interfaces.
-    securedIncomeAnnual: incomeAnnual,
     fundingGapAnnual, surplusAnnual, monthlyGap, breakEvenMembers,
   };
 }
