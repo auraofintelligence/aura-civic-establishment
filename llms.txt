@@ -17,7 +17,6 @@ Read the dated source context and preserve distinctions between historic evidenc
 - [Build a site brief](https://auraofintelligence.github.io/aura-civic-establishment/guide.html)
 - [Developing connections](https://auraofintelligence.github.io/aura-civic-establishment/network.html)
 - [Sources and assumptions](https://auraofintelligence.github.io/aura-civic-establishment/sources.html)
-- [Style guide](https://auraofintelligence.github.io/aura-civic-establishment/style-guide.html)
 - [Images and provenance](https://auraofintelligence.github.io/aura-civic-establishment/credits.html)
 - [Licence and rights](https://auraofintelligence.github.io/aura-civic-establishment/licence.html)
 - [Site map](https://auraofintelligence.github.io/aura-civic-establishment/site-map.html)

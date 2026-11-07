@@ -10,6 +10,8 @@ Keep the federation of distinct organisations, providers, hosts, asset owners an
 
 The site is an explanatory and computational planning tool. Keep its tone useful, confident and invitational. Avoid bureaucratic obstacles, instructions to trust the project and repeated defensive notices. State material limits next to the affected fact or calculation. Use commas, colons or full stops instead of em dashes.
 
+Keep website design and maintenance documentation in the repository, not in public proposal pages or navigation. The former public style guide was removed at the user's request; see docs/DESIGN.md.
+
 Every public page has a distinct responsive raster hero, an understandable image caption and image-credit entry, full navigation, sitemap inclusion, previous/next links and a return-to-top control. Use both documented photographs and clearly labelled AI-generated concept images. Photographs must identify their real subject. Preserve source, author and licence metadata. Do not present a concept image as the existing building.
 
 Use a distinct cobalt, ink, cream and amber identity with strong typography, generous photographic compositions and varied section layouts. Interfaces must remain readable without JavaScript. Calculators progressively enhance the static explanation. Support mobile layouts, keyboard use and reduced motion.

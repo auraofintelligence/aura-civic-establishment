@@ -6,9 +6,11 @@ The site explores one potential civic establishment within a much wider Aura of 
 
 Correction, 8 November 2026: removed the invented daily timetable, room-week calendar and access-policy outcomes. Replaced them with open design questions. Removed preselected programme combinations and labelled the resource mapping as illustrative. Replaced the Melbourne library photograph with a credited photograph of The Edge at the State Library of Queensland, Brisbane.
 
+Further corrections, 8 November 2026: fixed inherited text colours in the KYC panel and improved cream-section card numbers and citations. Moved the website style guide to repository documentation and removed its public page and navigation entry.
+
 ## Available now
 
-- Seventeen public pages covering the place, shared use, overlaps, capacity, costs, workforce, resilience, access, representatives, the site brief, connected projects, sources, design and rights.
+- Sixteen public pages covering the place, shared use, overlaps, capacity, costs, workforce, resilience, access, representatives, the site brief, connected projects, sources and rights. Website design and maintenance notes live in docs/DESIGN.md in the repository.
 - Five editable calculator models, scenario import/export and shareable links.
 - An illustrative resource comparison, KYC discussion prompts and optional locally saved guide selections.
 - Twenty documented images, including two new generated concepts, photographs, responsive heroes and inline figures.

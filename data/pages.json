@@ -65,11 +65,6 @@
     "hero": "library-hero"
   },
   {
-    "file": "style-guide.html",
-    "nav": "Style guide",
-    "hero": "global-festival"
-  },
-  {
     "file": "credits.html",
     "nav": "Images and provenance",
     "hero": "earth-at-night"

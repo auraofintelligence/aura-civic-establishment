@@ -14,6 +14,8 @@ Author: **Luke Nathan Hayes / Strange But True / Aura of Intelligence**.
 
 [First-edition status and continuation notes](PROJECT_STATUS.md) record what is available and which local inputs will strengthen the next edition.
 
+[Website design and maintenance notes](docs/DESIGN.md) are kept in the repository.
+
 ## Explore
 
 - **The place:** dated indoor-area evidence, plan references and the questions a current room inventory can answer.
