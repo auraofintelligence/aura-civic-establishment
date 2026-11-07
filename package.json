@@ -1,0 +1,15 @@
+{
+  "name": "aura-civic-establishment",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A 24/7 shared civic place and planning laboratory by Luke Nathan Hayes.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/model.test.mjs",
+    "build": "node scripts/defaults.mjs && python scripts/build.py",
+    "check": "python scripts/check.py",
+    "serve": "python scripts/serve.py --port 8768"
+  },
+  "license": "SEE LICENSE IN LICENCE.md",
+  "author": "Luke Nathan Hayes / Strange But True / Aura of Intelligence"
+}

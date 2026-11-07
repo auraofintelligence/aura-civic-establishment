@@ -1,0 +1,255 @@
+{
+  "reviewed": "2026-11-07",
+  "sources": [
+    {
+      "id": "D01",
+      "title": "Verse Box: Proposal for a Public Trial, Version 1",
+      "kind": "Supplied authored proposal",
+      "author": "Luke Nathan Hayes",
+      "date": "2026-10-19",
+      "url": "https://auraofintelligence.github.io/aura-verse-box/",
+      "repository": "https://github.com/auraofintelligence/aura-verse-box",
+      "note": "The supplied trial proposal informs supported personal computing and learning. The link opens its public project counterpart; it is not a claim that this building hosts an operating trial."
+    },
+    {
+      "id": "D02",
+      "title": "Aura of Intelligence for Disaster Resilience and Recovery",
+      "kind": "Supplied authored proposal",
+      "author": "Luke Nathan Hayes",
+      "date": "2026-10-27",
+      "url": "https://github.com/auraofintelligence/aura-disaster-resilience/wiki",
+      "repository": "https://github.com/auraofintelligence/aura-disaster-resilience",
+      "note": "Personal and community capability before, during and after disaster, beginning on Minjerribah and in Redlands. The public planning workshop provides context; proposed functions here are subject to local relationships and practical requirements."
+    },
+    {
+      "id": "D03",
+      "title": "Aura of Intelligence for Tourism and Domestic Travel",
+      "kind": "Supplied authored proposal",
+      "author": "Luke Nathan Hayes",
+      "date": "2026-10-27",
+      "url": "https://auraofintelligence.github.io/aura-tourism/",
+      "repository": "https://github.com/auraofintelligence/aura-tourism",
+      "note": "Developing the qualified self through travel, personal intelligence, music, sport, culture and nature. Links to the public counterpart project."
+    },
+    {
+      "id": "D04",
+      "title": "Aura of Intelligence for Adaptive Whole of Life Support",
+      "kind": "Supplied authored proposal",
+      "author": "Luke Nathan Hayes",
+      "date": "2026-10-27",
+      "url": "https://auraofintelligence.github.io/aura-whole-of-life/",
+      "repository": "https://github.com/auraofintelligence/aura-whole-of-life",
+      "note": "Authored proposal concerning dementia, disability, ageing, chosen personal records and continuity of human support. The public counterpart describes proposed uses, not demonstrated clinical outcomes."
+    },
+    {
+      "id": "D05",
+      "title": "Aura Genesis for Children and Young People in Australian Care",
+      "kind": "Supplied authored proposal",
+      "author": "Luke Nathan Hayes",
+      "date": "2026-10-25",
+      "url": "https://auraofintelligence.github.io/aura-child-services/",
+      "repository": "https://github.com/auraofintelligence/aura-child-services",
+      "note": "Personal understanding, rights, interests, trusted adults and opportunities for adulthood. The linked public guide is the project counterpart; its inclusion does not establish a commissioned care service."
+    },
+    {
+      "id": "D06",
+      "title": "Fiji-Australia Vuvale Union: Building Economies through Joyful Responsible Abundance",
+      "kind": "Supplied authored submission",
+      "author": "Luke Nathan Hayes",
+      "date": "2026-08-29",
+      "url": "https://auraofintelligence.github.io/installing-the-missing-middle/sources.html#D10",
+      "repository": "https://github.com/auraofintelligence/installing-the-missing-middle",
+      "note": "The public source library records this authored treaty submission as regional relationships, ownership, workforce and public-purpose context. It does not establish an international partnership for this building."
+    },
+    {
+      "id": "D07",
+      "title": "Do Not Put All Our Eggs in One Basket: AUKUS Public Inquiry Submission",
+      "kind": "Supplied authored submission",
+      "author": "Luke Nathan Hayes",
+      "date": "2026-08-24",
+      "url": "https://auraofintelligence.github.io/installing-the-missing-middle/sources.html#D02",
+      "repository": "https://github.com/auraofintelligence/UNGA81-Luke-Hayes",
+      "note": "An authored argument for distributed civic AI capability. The linked source-library entry identifies its public edition. Distinct from the Senate AI and data centres submission of 21 August."
+    },
+    {
+      "id": "D08",
+      "title": "Do Not Put All Our Eggs in One Basket: Federated Sovereign AI and Civic Stewardship",
+      "kind": "Supplied authored submission",
+      "author": "Luke Nathan Hayes",
+      "date": "2026-08-21",
+      "url": "https://auraofintelligence.github.io/installing-the-missing-middle/sources.html#D09",
+      "repository": "https://github.com/auraofintelligence/installing-the-missing-middle",
+      "note": "Submission to the Senate inquiry into artificial intelligence and data centres. Its infrastructure architecture and capital assumptions are proposal context, not current site measurements or supplier quotations."
+    },
+    {
+      "id": "D09",
+      "title": "A Fair Go for the AI Age: Postcode-Level Sovereign Compute as Shared National Infrastructure",
+      "kind": "Supplied authored submission",
+      "author": "Luke Nathan Hayes",
+      "date": "2026-08-18",
+      "url": "https://auraofintelligence.github.io/installing-the-missing-middle/sources.html#D01",
+      "repository": "https://github.com/auraofintelligence/installing-the-missing-middle",
+      "note": "National rationale for shared community compute. The source describes concept-stage, unfunded proposals. It is background to a possible node rather than evidence of an approved rollout."
+    },
+    {
+      "id": "D10",
+      "title": "Ocean of Peace Alliance: The Veitacini Treaty and Joyful Responsible Abundance",
+      "kind": "Supplied authored submission",
+      "author": "Luke Nathan Hayes",
+      "date": "2026-08-27",
+      "url": "https://auraofintelligence.github.io/installing-the-missing-middle/sources.html#D12",
+      "repository": "https://github.com/auraofintelligence/installing-the-missing-middle",
+      "note": "Authored treaty submission concerning regional cooperation and longer-term shared capability. Linked through an existing public source library."
+    },
+    {
+      "id": "D11",
+      "title": "Installing the Missing Middle: Community Compute, Useful Heat and Local Ownership",
+      "kind": "Supplied authored plan",
+      "author": "Luke Nathan Hayes",
+      "date": "2026-10-29",
+      "url": "https://auraofintelligence.github.io/installing-the-missing-middle/",
+      "repository": "https://github.com/auraofintelligence/installing-the-missing-middle",
+      "note": "A national installation-business proposal within a federation of people and corporate vehicles. National node counts and finance allowances are distinct from a building-specific business case."
+    },
+    {
+      "id": "D12",
+      "title": "Joyful Responsible Abundance: Human and Superintelligence Alignment, Revised Edition",
+      "kind": "Supplied authored paper",
+      "author": "Luke Nathan Hayes",
+      "date": "2026-10-11",
+      "url": "https://auraofintelligence.github.io/joyful-responsible-abundance/library.html",
+      "repository": "https://github.com/auraofintelligence/joyful-responsible-abundance",
+      "note": "The supplied revised paper connects personal intelligence, shared capability and lives worth choosing. The public library provides related authored material; public editions can differ from the supplied October revision."
+    },
+    {
+      "id": "D13",
+      "title": "A Fair Go in the Age of Intelligence: A Personal Contribution to UNGA 81",
+      "kind": "Supplied authored contribution",
+      "author": "Luke Nathan Hayes",
+      "date": "2026-09",
+      "url": "https://auraofintelligence.github.io/UNGA81-Luke-Hayes/",
+      "repository": "https://github.com/auraofintelligence/UNGA81-Luke-Hayes",
+      "note": "A personal contribution responding to the UNGA 81 theme and inviting Joyful Responsible Abundance. Authored by Luke Nathan Hayes; not a United Nations statement or endorsement."
+    },
+    {
+      "id": "D14",
+      "title": "500 Queens Venture Capital: Planning Document",
+      "kind": "Supplied authored plan",
+      "author": "Luke Nathan Hayes",
+      "date": "2026-09-23",
+      "url": "https://auraofintelligence.github.io/500-Queens-VC-2026/references.html",
+      "repository": "https://github.com/auraofintelligence/500-Queens-VC-2026",
+      "note": "Women developing executive leadership, enterprise and decision-making capability. The public planning library distinguishes proposed programmes, premises and funding from commitments."
+    },
+    {
+      "id": "D15",
+      "title": "Aura Teacher Training: A Sixty-Day Progression",
+      "kind": "Supplied authored learning design",
+      "author": "Luke Nathan Hayes",
+      "date": "2026-10-14",
+      "url": "https://auraofintelligence.github.io/aura-teacher-training/",
+      "repository": "https://github.com/auraofintelligence/aura-teacher-training",
+      "note": "Personal Aura development, interdisciplinary understanding, critical engagement with AI and civic capability. The linked public learning project is a counterpart to the supplied reading collection."
+    },
+    {
+      "id": "D16",
+      "title": "Aura Genesis Geode Development: Game Design Document, Expanded Edition 3",
+      "kind": "Supplied authored development document",
+      "author": "Luke Nathan Hayes",
+      "date": "2026-10-14",
+      "url": "https://auraofintelligence.github.io/aura-genesis-geode-atlas/",
+      "repository": "https://github.com/auraofintelligence/aura-genesis-geode-atlas",
+      "note": "Experience design, personal records, hardware pathways, mineral craft and scientific exploration. Research and health-related concepts are design proposals, not evidence of efficacy or an operating facility here."
+    },
+    {
+      "id": "D17",
+      "title": "Community Hours and Joyful Responsible Abundance: An Introduction and Growth Plan",
+      "kind": "Supplied authored plan",
+      "author": "Luke Nathan Hayes",
+      "date": "2026-09-23",
+      "url": "https://auraofintelligence.github.io/C-Hour-introduction/",
+      "repository": "https://github.com/auraofintelligence/C-Hour-introduction",
+      "note": "Community-led participation, shared capability and recognised voluntary human contribution. Current direction governs interpretation: C-Hour has no monetary equivalent, with money and outcomes recorded separately."
+    },
+    {
+      "id": "W01",
+      "title": "Sovereign Capacity Lab",
+      "kind": "Supplied public website",
+      "author": "Luke Nathan Hayes / Aura of Intelligence",
+      "date": "Reviewed 2026-11-07",
+      "url": "https://auraofintelligence.github.io/sovereign-capacity-lab/index.html",
+      "repository": "https://github.com/auraofintelligence/sovereign-capacity-lab",
+      "note": "Editable physical scenarios for energy, machinery, materials, lifetime and Australian infrastructure. Scenario inputs are not a survey of 433 Logan Road."
+    },
+    {
+      "id": "W02",
+      "title": "Joyful Responsible Abundance",
+      "kind": "Supplied public website",
+      "author": "Luke Nathan Hayes / Aura of Intelligence",
+      "date": "Reviewed 2026-11-07",
+      "url": "https://auraofintelligence.github.io/joyful-responsible-abundance/index.html",
+      "repository": "https://github.com/auraofintelligence/joyful-responsible-abundance",
+      "note": "Whole-system purpose, personal agency, shared capability, ownership and distinct national and global scenarios."
+    },
+    {
+      "id": "W03",
+      "title": "Ready SET Co-op Cultural Intelligence Node",
+      "kind": "Supplied public website",
+      "author": "Luke Nathan Hayes / Aura of Intelligence",
+      "date": "Reviewed 2026-11-07",
+      "url": "https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/index.html",
+      "repository": "https://github.com/auraofintelligence/ready-set-co-op-cultural-intelligence-node",
+      "note": "A Dunwich local-node reference for cultural collaboration, workloads and co-operative relationships. Place, permission and cultural relationships do not transfer automatically to another location."
+    },
+    {
+      "id": "W04",
+      "title": "Aura of Intelligence Project Atlas",
+      "kind": "Supplied public website",
+      "author": "Luke Nathan Hayes / Aura of Intelligence",
+      "date": "2026-11-05 dataset; reviewed 2026-11-07",
+      "url": "https://auraofintelligence.github.io/project-atlas/projects.html",
+      "repository": "https://github.com/auraofintelligence/project-atlas",
+      "note": "Public directory and lineage of connected projects. A project listing is not evidence of a commissioned service or a commitment to integrate every project at this building."
+    },
+    {
+      "id": "B01",
+      "title": "Investigation Sphynx: QPS Stones Corner Lease",
+      "kind": "Primary building context",
+      "author": "Queensland Crime and Corruption Commission",
+      "date": "2026-11",
+      "url": "https://www.ccc.qld.gov.au/sites/default/files/Docs/Publications/CCC/CCC-Public-Report_Investigation-Sphynx_Nov-2026.pdf",
+      "repository": "",
+      "note": "Public investigation into allegations concerning the decision to enter the Stones Corner lease. Read its findings in context. It does not establish vacancy, availability, access rights or a right to occupy the building."
+    },
+    {
+      "id": "B02",
+      "title": "2018 Valuation Comparison: Serviced Office Centre, 425 and 433 Logan Road",
+      "kind": "Historical building comparison",
+      "author": "m3property (Qld) Pty Ltd; Michael Coverdale, primary valuer",
+      "date": "2018-11-21",
+      "url": "https://smartinvestor.sorted.org.nz/assets/disclose-documents/28/ba/ec/Valuation-Report.pdf#page=67",
+      "repository": "",
+      "note": "PDF page 67, printed page 58, is a comparable sale within a valuation of a different property. It records historical combined-property net lettable area of 5,585 m²: 5,118 m² serviced office, 387 m² café and a separate 80 m² retail tenancy at 425 Logan Road. These historical measures are not current usable civic-hub area."
+    },
+    {
+      "id": "B03",
+      "title": "Brisbane Fringe Office MarketBeat, Q4 2023",
+      "kind": "Published leasing evidence",
+      "author": "Cushman & Wakefield Research",
+      "date": "2023-Q4",
+      "url": "https://assets.cushmanwakefield.com/-/media/cw/marketbeat-pdfs/2023/q4/apac-and-gc/australia--brisbane--fringe-office-q4-2023-updated.pdf?rev=e23762a803d54de6a9206d673ef9feff#page=2",
+      "repository": "",
+      "note": "Page 2 reports a direct lease of 7,266 m² at 433 Logan Road to Queensland Police. This is a lease-transaction measure from Q4 2023, distinct from the 2018 combined-property net lettable area and from usable space for any proposed hub."
+    },
+    {
+      "id": "B04",
+      "title": "Brisbane Development.i: Application A004942032",
+      "kind": "Public planning register",
+      "author": "Brisbane City Council",
+      "date": "Reviewed 2026-11-07",
+      "url": "https://developmenti.brisbane.qld.gov.au/",
+      "repository": "",
+      "note": "Use Application search for A004942032 and confirm the address and document dates. This links to the public register rather than an unverified application deep link. Historical planning material does not establish current approvals for the proposed civic uses."
+    }
+  ]
+}

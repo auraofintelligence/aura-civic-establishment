@@ -1,0 +1,10 @@
+[
+ {"id":"welcome","title":"Personal intelligence and digital access","description":"Verse Box introductions, useful projects and assisted access.","spaces":["Shared desks","Quiet rooms","Demonstration space"],"sources":["D01","D12"]},
+ {"id":"resilience","title":"Resilience and volunteer coordination","description":"Preparedness learning, continuity exercises and supported contribution.","spaces":["Teaching rooms","Coordination room","Workshop","Shared desks"],"sources":["D02","D17"]},
+ {"id":"women","title":"Women’s leadership and enterprise","description":"500 Queens mentoring, executive learning and enterprise development.","spaces":["Shared desks","Quiet rooms","Teaching rooms","Event space"],"sources":["D14","D11"]},
+ {"id":"youth","title":"Young people and supported transitions","description":"Creative learning, mentors and opportunities connected with adulthood.","spaces":["Teaching rooms","Quiet rooms","Media studio","Workshop"],"sources":["D05"]},
+ {"id":"teaching","title":"Teaching and workforce development","description":"Teacher development, Try Everything Once and practical installation learning.","spaces":["Teaching rooms","Workshop","Media studio","Shared desks"],"sources":["D15","D11"]},
+ {"id":"support","title":"Whole-of-life support","description":"Personal records, accessible introductions, memory work and provider collaboration.","spaces":["Quiet rooms","Teaching rooms","Shared desks"],"sources":["D04"]},
+ {"id":"creative","title":"Culture, tourism and creative work","description":"Media, music, local stories, experiences and peer learning.","spaces":["Media studio","Event space","Workshop","Shared desks"],"sources":["D03","D06","D10"]},
+ {"id":"models","title":"Software, place models and shared compute","description":"Local models, civic simulations, technical development and infrastructure learning.","spaces":["Shared desks","Teaching rooms","Workshop","Compute laboratory"],"sources":["D08","D09","D11","W01"]}
+]

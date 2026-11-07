@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "generation_date": "2026-11-07",
+  "note": "AI-generated architectural concepts. These images do not depict the existing premises or a committed fitout.",
+  "images": [
+    {
+      "id": "generated-civic-hub-concept",
+      "title": "A shared civic hub after dark",
+      "caption": "AI-generated concept: an imagined shared civic learning and enterprise hub after dark. This is not a photograph or design of the existing 433 Logan Road premises.",
+      "alt": "AI-generated concept of a welcoming civic hub with shared desks, glass meeting rooms and an evening reception.",
+      "prompt": "Use case: photorealistic-natural\nAsset type: wide raster website hero, architectural concept image.\nPrimary request: sophisticated photorealistic architectural concept for an Australian 24/7 shared civic learning and enterprise hub.\nScene/backdrop: a generous adapted commercial interior with accessible welcoming entry, quiet meeting rooms behind glass, shared desks, tactile timber, cream plaster and concrete materials. Subtropical Brisbane evening visible outside.\nSubject: adults of varied ages in a few natural overlapping activities: friendly welcome, quiet collaborative learning and focused work.\nComposition/framing: cinematic wide 16:9 landscape composition, eye-level architectural photography, usable darker left third for an overlaid heading, activity concentrated through centre and right, believable proportions and circulation.\nLighting/mood: human warmth, warm amber interior light balanced with evening blue.\nColor palette: cobalt, deep ink, teal accents, cream and amber.\nConstraints: this is an imagined concept only, not the actual 433 Logan Road building or fitout. No text, signs, logos, watermarks or brand marks. Natural adult anatomy and grounded realistic architecture.",
+      "type": "AI-generated concept",
+      "tool": "image_gen.imagegen",
+      "mode": "built-in",
+      "generation_date": "2026-11-07",
+      "creator": "OpenAI image generation via Codex",
+      "target_files": [
+        "assets/images/generated-civic-hub-concept.png",
+        "assets/images/generated-civic-hub-concept-768.webp",
+        "assets/images/generated-civic-hub-concept-1536.webp"
+      ],
+      "width": 1672,
+      "height": 941,
+      "responsive_variants": [
+        {
+          "path": "assets/images/generated-civic-hub-concept-768.webp",
+          "width": 768,
+          "height": 432,
+          "bytes": 83714
+        },
+        {
+          "path": "assets/images/generated-civic-hub-concept-1536.webp",
+          "width": 1536,
+          "height": 864,
+          "bytes": 250908
+        }
+      ]
+    },
+    {
+      "id": "generated-night-learning-concept",
+      "title": "Late-night technical learning",
+      "caption": "AI-generated concept: adults sharing a late-night equipment-maintenance learning session beside separate computing infrastructure. This is not a photograph or design of the existing 433 Logan Road premises.",
+      "alt": "AI-generated concept of adults learning computer maintenance around a workbench beside a glass-walled equipment room.",
+      "prompt": "Use case: photorealistic-natural\nAsset type: wide raster website hero, architectural concept image.\nPrimary request: a sophisticated photorealistic concept of an Australian 24/7 shared civic learning and enterprise hub during a late-night collaborative technical learning session.\nScene/backdrop: generous adapted commercial space, tactile timber and cream concrete, illuminated glass meeting rooms. A secure computing equipment room is visible through glass in a separate adjacent space, with credible server cabinets.\nSubject: a small diverse group of adults learning equipment maintenance and public information continuity around a practical workbench and ordinary computer screens, natural attentive collaboration and human warmth.\nComposition/framing: cinematic wide 16:9 landscape architecture photograph, usable darker left third for a heading, main bench and learners in centre and right. Eye-level view and believable adult proportions.\nLighting/mood: dramatic cobalt evening and warm amber interior light, calm, practical and welcoming.\nColor palette: cobalt, ink, teal, cream and amber.\nConstraints: an imagined architectural concept only, not the actual 433 Logan Road building or fitout. No sci-fi holograms, text, logos, watermarks or brand marks. Screen content abstract and unreadable.",
+      "type": "AI-generated concept",
+      "tool": "image_gen.imagegen",
+      "mode": "built-in",
+      "generation_date": "2026-11-07",
+      "creator": "OpenAI image generation via Codex",
+      "target_files": [
+        "assets/images/generated-night-learning-concept.png",
+        "assets/images/generated-night-learning-concept-768.webp",
+        "assets/images/generated-night-learning-concept-1536.webp"
+      ],
+      "width": 1672,
+      "height": 941,
+      "responsive_variants": [
+        {
+          "path": "assets/images/generated-night-learning-concept-768.webp",
+          "width": 768,
+          "height": 432,
+          "bytes": 77684
+        },
+        {
+          "path": "assets/images/generated-night-learning-concept-1536.webp",
+          "width": 1536,
+          "height": 864,
+          "bytes": 203494
+        }
+      ]
+    }
+  ]
+}

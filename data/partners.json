@@ -1,0 +1,120 @@
+{
+  "reviewed": "2026-11-07",
+  "local": [
+    {
+      "level": "Brisbane City Council",
+      "name": "Councillor Fiona Cunningham",
+      "role": "Coorparoo Ward Councillor, Deputy Mayor and Civic Cabinet Chair of Finance and City Governance",
+      "area": "Coorparoo Ward, including Stones Corner",
+      "url": "https://www.brisbane.qld.gov.au/about-council/governance-and-strategy/councillors-and-wards",
+      "email": "coorparoo.ward@bcc.qld.gov.au",
+      "phone": "07 3403 2101"
+    },
+    {
+      "level": "Queensland Parliament",
+      "name": "Joe Kelly MP",
+      "role": "Member for Greenslopes",
+      "area": "Greenslopes state electorate",
+      "url": "https://www.parliament.qld.gov.au/Members/Current-Members/Member-List/Member-Details?id=917365499",
+      "email": "Greenslopes@parliament.qld.gov.au",
+      "phone": "07 3414 2100"
+    },
+    {
+      "level": "Australian Parliament",
+      "name": "Renee Coffey MP",
+      "role": "Member for Griffith",
+      "area": "Griffith federal electorate",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=312323",
+      "email": "Renee.Coffey.MP@aph.gov.au",
+      "phone": "07 3397 1674"
+    }
+  ],
+  "portfolios": [
+    {
+      "theme": "Disaster resilience: potential alignment only",
+      "council": "Lord Mayor Adrian Schrinner chairs the Brisbane Local Disaster Management Group. Councillor Tracy Davis holds Environment, Parks and Sustainability. Relevant discussion could concern everyday readiness, continuity and shared facilities. All seven portfolio mappings identify potential alignment, not support, endorsement or funding commitments.",
+      "state": "Ann Leahy holds Fire, Disaster Recovery and Volunteers; Dan Purdie holds Police and Emergency Services. These are distinct recovery and emergency-management responsibilities, not a partnership with this proposal.",
+      "federal": "Kristy McBain is Minister for Emergency Management; the National Emergency Management Agency is the relevant national agency. Potential subject alignment does not establish funding eligibility or an operational role.",
+      "urls": [
+        {"label": "Brisbane Local Disaster Management Plan", "url": "https://www.brisbane.qld.gov.au/content/dam/brisbanecitycouncil/corpwebsite/about-council/documents/brisbane-city-council-local-disaster-management-plan.pdf.coredownload.pdf"},
+        {"label": "Council standing committees and responsibilities", "url": "https://www.brisbane.qld.gov.au/about-council/governance-and-strategy/council-and-standing-committee-meetings"},
+        {"label": "Ann Leahy, Queensland Parliament", "url": "https://www.parliament.qld.gov.au/Members/Current-Members/Member-List/Member-Details?id=2106992049"},
+        {"label": "Dan Purdie, Police and Emergency Services", "url": "https://cabinet.qld.gov.au/ministers-portfolios/daniel-purdie.aspx"},
+        {"label": "NEMA ministers and leadership", "url": "https://www.nema.gov.au/about-us/our-people"}
+      ]
+    },
+    {
+      "theme": "Children and young people: potential alignment only",
+      "council": "Councillor Vicki Howard holds Community and the Arts. Local libraries, community participation and youth activities are possible discussion areas.",
+      "state": "Amanda Stoker, appointed 24 October 2026, holds Families, Seniors and Disability Services, Child Safety and Prevention of Domestic and Family Violence. Sam O'Connor holds Housing and Public Works and Youth. Care services and youth participation have different responsibilities.",
+      "federal": "Jess Walsh holds Early Childhood Education and Youth. The proposal's supported learning and opportunities for adulthood may be relevant topics for discussion, without implying an approved service or commitment.",
+      "urls": [
+        {"label": "Council standing committees and responsibilities", "url": "https://www.brisbane.qld.gov.au/about-council/governance-and-strategy/council-and-standing-committee-meetings"},
+        {"label": "Amanda Stoker, current minister", "url": "https://www.families.qld.gov.au/about-us/our-minister"},
+        {"label": "Ministerial appointment, 24 October 2026", "url": "https://statements.qld.gov.au/statements/106297"},
+        {"label": "Sam O'Connor, Housing, Public Works and Youth", "url": "https://cabinet.qld.gov.au/ministers-portfolios/samuel-o-connor.aspx"},
+        {"label": "Jess Walsh, education and youth portfolios", "url": "https://ministers.education.gov.au/senator-hon-dr-jess-walsh"}
+      ]
+    },
+    {
+      "theme": "Women and enterprise: potential alignment only",
+      "council": "Councillor Vicki Howard's community portfolio and Councillor Adam Allan's economic development portfolio are possible points of subject alignment.",
+      "state": "Fiona Simpson holds Women and Women's Economic Security. Steve Minnikin holds Small and Family Business alongside Customer Services and Open Data. Leadership learning and enterprise development are possible discussion areas.",
+      "federal": "Katy Gallagher is Minister for Women. The connection is to women's participation and economic opportunity; it does not imply support for a proposed investment vehicle or premises.",
+      "urls": [
+        {"label": "Council standing committees and responsibilities", "url": "https://www.brisbane.qld.gov.au/about-council/governance-and-strategy/council-and-standing-committee-meetings"},
+        {"label": "Fiona Simpson, Women and Women's Economic Security", "url": "https://cabinet.qld.gov.au/ministers-portfolios/fiona-simpson.aspx"},
+        {"label": "Queensland ministers and departments", "url": "https://www.qld.gov.au/government/premier-ministers-departments/ministers-departments"},
+        {"label": "Katy Gallagher, Minister for Women", "url": "https://ministers.pmc.gov.au/gallagher?page=0"}
+      ]
+    },
+    {
+      "theme": "Volunteering and C-Hour: potential alignment only",
+      "council": "Councillor Vicki Howard holds Community and the Arts. Volunteer participation, useful shared facilities and recognition of community contribution are possible discussion areas.",
+      "state": "Ann Leahy holds Volunteers, as well as Local Government, Water, Fire and Disaster Recovery. C-Hour is proposed as a non-monetary record of voluntary human time, alongside separate money and outcome records.",
+      "federal": "Tanya Plibersek holds Social Services, the relevant national portfolio for volunteering policy. Any programme eligibility or collaboration would require its own assessment and agreement.",
+      "urls": [
+        {"label": "Council standing committees and responsibilities", "url": "https://www.brisbane.qld.gov.au/about-council/governance-and-strategy/council-and-standing-committee-meetings"},
+        {"label": "Ann Leahy, current responsibilities", "url": "https://www.parliament.qld.gov.au/Members/Current-Members/Member-List/Member-Details?id=2106992049"},
+        {"label": "Queensland response to the volunteering inquiry", "url": "https://statements.qld.gov.au/statements/104211"},
+        {"label": "Tanya Plibersek, Social Services", "url": "https://ministers.dss.gov.au/tanya-plibersek"}
+      ]
+    },
+    {
+      "theme": "Community services and inclusion: potential alignment only",
+      "council": "Councillor Vicki Howard holds Community and the Arts. The local Coorparoo Ward office is a public route for place-specific civic matters.",
+      "state": "Amanda Stoker's Families, Seniors and Disability Services portfolio includes community services and community recovery. Sam O'Connor's Public Works responsibilities may be relevant to government-building questions, without establishing building availability.",
+      "federal": "Tanya Plibersek holds Social Services. The relationship between proposed shared civic facilities, commissioned providers and existing services would need to be developed with the responsible organisations.",
+      "urls": [
+        {"label": "Council standing committees and responsibilities", "url": "https://www.brisbane.qld.gov.au/about-council/governance-and-strategy/council-and-standing-committee-meetings"},
+        {"label": "Coorparoo Ward and public office contacts", "url": "https://www.brisbane.qld.gov.au/about-council/governance-and-strategy/councillors-and-wards"},
+        {"label": "Families, Seniors, Disability Services and Child Safety minister", "url": "https://www.families.qld.gov.au/about-us/our-minister"},
+        {"label": "Housing, Public Works and Youth minister", "url": "https://cabinet.qld.gov.au/ministers-portfolios/samuel-o-connor.aspx"},
+        {"label": "Department of Social Services ministers", "url": "https://www.dss.gov.au/who-we-are/our-ministers"}
+      ]
+    },
+    {
+      "theme": "Innovation and shared computing: potential alignment only",
+      "council": "Councillor Adam Allan holds City Planning, Suburban Renewal and Economic Development. A potential civic hub could connect useful local enterprise with shared capability.",
+      "state": "Andrew Powell holds Science and Innovation; Steve Minnikin holds Customer Services and Open Data, and Small and Family Business. These portfolios relate to research, digital capability and enterprise through different responsibilities.",
+      "federal": "Tim Ayres holds Industry and Innovation and Science. A proposed local computing node remains distinct from any approved national infrastructure project, research programme or funding agreement.",
+      "urls": [
+        {"label": "Council standing committees and responsibilities", "url": "https://www.brisbane.qld.gov.au/about-council/governance-and-strategy/council-and-standing-committee-meetings"},
+        {"label": "Andrew Powell, Science and Innovation", "url": "https://cabinet.qld.gov.au/ministers-portfolios/andrew-powell.aspx"},
+        {"label": "Queensland digital and small-business responsibilities", "url": "https://www.qld.gov.au/government/premier-ministers-departments/ministers-departments"},
+        {"label": "Tim Ayres, Industry and Innovation and Science", "url": "https://www.minister.industry.gov.au/t-ayres"}
+      ]
+    },
+    {
+      "theme": "Workforce, employment and learning: potential alignment only",
+      "council": "Councillor Adam Allan's economic development responsibilities and Councillor Vicki Howard's community responsibilities are possible points of alignment for shared learning and local opportunity.",
+      "state": "Ros Bates holds Finance, Trade, Employment and Training. Proposed technical learning, paid work, voluntary contribution and investment remain separate arrangements rather than interchangeable forms of participation.",
+      "federal": "Amanda Rishworth holds Employment and Workplace Relations; Andrew Giles holds Skills and Training. Potential workforce and training discussions do not establish programme eligibility, accredited delivery or committed places.",
+      "urls": [
+        {"label": "Council standing committees and responsibilities", "url": "https://www.brisbane.qld.gov.au/about-council/governance-and-strategy/council-and-standing-committee-meetings"},
+        {"label": "Ros Bates, Queensland Treasury minister profile", "url": "https://www.treasury.qld.gov.au/about-treasury/our-people/"},
+        {"label": "Australian employment and skills ministers", "url": "https://www.dewr.gov.au/about-department/our-ministers"}
+      ]
+    }
+  ]
+}

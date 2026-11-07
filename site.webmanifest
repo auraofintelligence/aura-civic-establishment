@@ -1,0 +1,22 @@
+{
+  "name": "Aura Civic Establishment",
+  "short_name": "Aura Civic",
+  "description": "A 24/7 shared civic place and planning laboratory.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#091429",
+  "theme_color": "#091429",
+  "icons": [
+    {
+      "src": "assets/brand/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/brand/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

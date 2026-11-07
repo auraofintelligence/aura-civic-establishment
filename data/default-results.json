@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "date": "2026-11-07",
+  "inputs": {
+    "capacity": {
+      "area": 5000,
+      "supportPercent": 30,
+      "areaPerPerson": 12,
+      "desks": 50,
+      "openHours": 24,
+      "openDays": 7,
+      "availabilityPercent": 80,
+      "bookingPercent": 60,
+      "hoursPerMember": 10
+    },
+    "rooms": {
+      "rooms": 4,
+      "openHours": 24,
+      "openDays": 7,
+      "availabilityPercent": 80,
+      "bookingPercent": 60,
+      "sessionHours": 2,
+      "turnoverMinutes": 15,
+      "peoplePerSession": 12
+    },
+    "economics": {
+      "premisesMonthly": 25000,
+      "staffFte": 8,
+      "loadedAnnualSalary": 100000,
+      "otherAnnual": 180000,
+      "capital": 300000,
+      "renewalYears": 5,
+      "contractAnnual": 600000,
+      "memberMonthly": 60,
+      "feePayingMembers": 300
+    },
+    "lease": {
+      "baseAnnual": 5800000,
+      "increasePercent": 4,
+      "year": 3,
+      "term": 15
+    },
+    "compute": {
+      "nodes": 1,
+      "capitalPerNode": 6000000,
+      "ratedKw": 120,
+      "utilisationPercent": 60,
+      "pue": 1.2,
+      "electricityPerKwh": 0.25
+    }
+  },
+  "results": {
+    "capacity": {
+      "programmeArea": 3500,
+      "planningPeople": 291,
+      "grossDeskHours": 8400,
+      "availableDeskHours": 6720,
+      "usedDeskHours": 4032,
+      "memberEquivalents": 403.2,
+      "weeklyHours": 168
+    },
+    "rooms": {
+      "grossRoomHours": 672,
+      "availableRoomHours": 537.6,
+      "usedRoomHours": 322.56,
+      "sessionEquivalents": 143.36,
+      "wholeSessions": 143,
+      "weeklyVisits": 1716
+    },
+    "economics": {
+      "premisesAnnual": 300000,
+      "staffAnnual": 800000,
+      "renewalAnnual": 60000,
+      "operatingAnnual": 1280000,
+      "totalAnnual": 1340000,
+      "memberAnnual": 216000,
+      "incomeAnnual": 816000,
+      "securedIncomeAnnual": 816000,
+      "fundingGapAnnual": 524000,
+      "surplusAnnual": 0,
+      "monthlyGap": 43666.666666666664,
+      "breakEvenMembers": 1028
+    },
+    "lease": {
+      "annual": 6273279.999999999,
+      "monthly": 522773.33333333326,
+      "cumulativeTerm": 116136808.29850274
+    },
+    "compute": {
+      "capital": 6000000,
+      "totalPowerKw": 86.39999999999999,
+      "annualKwh": 756863.9999999999,
+      "annualElectricity": 189215.99999999997
+    }
+  }
+}

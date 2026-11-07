@@ -1,0 +1,3 @@
+# Project-path file. Origin-wide crawler rules belong at https://auraofintelligence.github.io/robots.txt
+# Public discovery does not grant reuse or training rights beyond LICENCE.md.
+Sitemap: https://auraofintelligence.github.io/aura-civic-establishment/sitemap.xml

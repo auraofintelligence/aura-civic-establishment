@@ -1,0 +1,87 @@
+[
+  {
+    "file": "index.html",
+    "nav": "The invitation",
+    "hero": "generated-civic-hub-concept"
+  },
+  {
+    "file": "place.html",
+    "nav": "The building",
+    "hero": "brisbane-story-bridge"
+  },
+  {
+    "file": "shared-use.html",
+    "nav": "24/7 shared use",
+    "hero": "generated-night-learning-concept"
+  },
+  {
+    "file": "overlaps.html",
+    "nav": "Programme overlaps",
+    "hero": "explore-hero"
+  },
+  {
+    "file": "capacity.html",
+    "nav": "Capacity calculators",
+    "hero": "five-horizons-hero"
+  },
+  {
+    "file": "economics.html",
+    "nav": "Costs and resources",
+    "hero": "rooftop-solar"
+  },
+  {
+    "file": "workforce.html",
+    "nav": "Workforce and teaching",
+    "hero": "people-practice-hero"
+  },
+  {
+    "file": "resilience.html",
+    "nav": "Resilience and contribution",
+    "hero": "tools-hero"
+  },
+  {
+    "file": "access.html",
+    "nav": "KYC and access",
+    "hero": "start-here-hero"
+  },
+  {
+    "file": "partners.html",
+    "nav": "People and portfolios",
+    "hero": "parliament-dusk"
+  },
+  {
+    "file": "guide.html",
+    "nav": "Build a site brief",
+    "hero": "projects-hero"
+  },
+  {
+    "file": "network.html",
+    "nav": "Connected projects",
+    "hero": "island-twin"
+  },
+  {
+    "file": "sources.html",
+    "nav": "Sources and assumptions",
+    "hero": "library-hero"
+  },
+  {
+    "file": "style-guide.html",
+    "nav": "Style guide",
+    "hero": "global-festival"
+  },
+  {
+    "file": "credits.html",
+    "nav": "Images and provenance",
+    "hero": "earth-at-night"
+  },
+  {
+    "file": "licence.html",
+    "nav": "Licence and rights",
+    "hero": "parliament-chamber"
+  },
+  {
+    "file": "site-map.html",
+    "nav": "Site map",
+    "hero": "state-library"
+  }
+]
